@@ -1,0 +1,3 @@
+C:/Users/hueci/Desktop/wxHelloWorld/wxHelloWorld/cmake-build-debug/CMakeFiles/wxHelloWorld.dir
+C:/Users/hueci/Desktop/wxHelloWorld/wxHelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hueci/Desktop/wxHelloWorld/wxHelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
